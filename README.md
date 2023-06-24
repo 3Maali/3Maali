@@ -1,7 +1,6 @@
 ### Hi there 👋
 
- cargo run -- -e 🐾 -s 256 --sizes 64,128,256
-  firefox icons.html
+ 🐾 
 <!--
 **3Maali/3Maali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
