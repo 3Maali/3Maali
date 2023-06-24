@@ -3,7 +3,7 @@
 # 🌟 About Me:
 My name is MAALI ALKHALDI<br>
 <br>I study CS 👩‍💻<br>
-<br>Currently I am on a journey to learn Flutter!⏳⚡ <br>
+<br>Currently I am on my journey to learn Flutter!⏳⚡ <br>
 
 <br>
 <h3>I am eager to learn new skills and work in a professional and innovative environment ✨.<h3/>
