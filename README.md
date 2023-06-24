@@ -12,10 +12,6 @@ I am eager to learn new skills and work in a professional and innovative environ
 
 
 
-<p align="left"> <a href="https://twitter.com/maali_alkhaldi" target="blank"><img src="https://img.shields.io/twitter/follow/maali_alkhaldi?logo=twitter&style=for-the-badge" alt="maali_alkhaldi" /></a> </p>
-
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3maali&show_icons=true&locale=en" alt="3maali" /></p>
 
