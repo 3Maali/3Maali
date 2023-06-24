@@ -1,6 +1,7 @@
 ### Hi there 👋
 
  🐾 
+ <i class="cil-paw"></i>
 <!--
 **3Maali/3Maali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
