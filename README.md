@@ -12,9 +12,6 @@ I am eager to learn new skills and work in a professional and innovative environ
 
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3maali&show_icons=true&locale=en" alt="3maali" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3maali&" alt="3maali" /></p>
 
 
