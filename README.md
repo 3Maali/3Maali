@@ -26,7 +26,7 @@ I am eager to learn new skills and work in a professional and innovative environ
 
 <p align="left">
 <a href="https://twitter.com/maali_alkhaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maali_alkhaldi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maali-alkhaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maali-alkhaldi" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/maali-alkhaldi](https://www.linkedin.com/in/maali-alkhaldi-991967215)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maali-alkhaldi" height="30" width="40" /></a>
 </p>
 
 # My areas of expertise:
