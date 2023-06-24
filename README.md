@@ -7,7 +7,8 @@ My name is MAALI ALKHALDI<br>
 
 <br>
 <h3>I am eager to learn new skills and work in a professional and innovative environment ✨.<h3/>
-
+ 
+<br>
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maali.alkhaldi1@gmail.com)  
@@ -15,6 +16,7 @@ My name is MAALI ALKHALDI<br>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/maali_alkhaldi) 
 
 <br>
+
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 	
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
