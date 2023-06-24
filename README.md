@@ -1,7 +1,12 @@
- # Well hello github community ! 
+ # Well hello github community ! 🫡
 
-# 💫 About Me:
-My name is MAALI ALKHALDI<br><br>I study CS<br><br>Currently I am on a journey to learn Flutter!<br><br>I am eager to learn new skills and work in a professional and innovative environment ✨.
+# 🌟 About Me:
+My name is MAALI ALKHALDI<br>
+<br>I study CS 👩‍💻<br>
+<br>Currently I am on a journey to learn Flutter!⏳⚡ <br>
+
+<br>
+<h3>I am eager to learn new skills and work in a professional and innovative environment ✨.<h3/>
 
 
 ## 🌐 Socials:
@@ -9,9 +14,6 @@ My name is MAALI ALKHALDI<br><br>I study CS<br><br>Currently I am on a journey t
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
