@@ -1,7 +1,7 @@
 
 
 # 🌟 About Me:
-<br Computer Science 👩‍💻<br>
+<br> Computer Science 👩‍💻<br>
 <br> <br>
 
 <br>
