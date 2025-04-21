@@ -73,9 +73,16 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
 ---
 
 ### 🔥 My Stats
+<!-- GitHub Stats Card -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3Maali&show_icons=true&theme=dark" height="200"/>
 </div>
+
+<!-- Top Languages Card -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Maali&layout=compact&theme=dark" height="200"/>
+</div>
+
 
 
 
