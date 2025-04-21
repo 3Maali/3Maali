@@ -41,7 +41,6 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" />
 </div>
 
----
 
 ### 📊 Data Tools
 <div align="left">
@@ -51,7 +50,6 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="35" alt="Streamlit" />
 </div>
 
----
 
 ### ☁️ Cloud Tools
 <div align="left">
@@ -61,7 +59,7 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
   <img src="https://gcpicons.com/icons/artifact_registry/color/artifact_registry_color.svg" height="35" alt="Artifact Registry" />
 </div>
 
----
+
 
 ### 🛠 Dev Tools
 <div align="left">
@@ -70,7 +68,6 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
   <img src="https://seeklogo.com/images/F/fastapi-logo-499530C7B3-seeklogo.com.png" height="35" alt="FastAPI" />
 </div>
 
----
 
 ### 🔥 My Stats
 <!-- GitHub Stats Card -->
