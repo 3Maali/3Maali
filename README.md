@@ -1,18 +1,12 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
-
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&" />
 </div>
 
-###
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/maali-alkhaldi-991967215/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Badge"/>
   </a>
@@ -24,82 +18,64 @@
   </a>
 </div>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+<h1 align="center">Hey there 👋</h1>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-### 
+### 👩‍💻 About Me
 
 <p align="left">
 I'm Maali from Saudi Arabia 🇸🇦<br><br>
-- 🔍 I’m passionate about Data Science, AI, and Data Analysis<br>
-- 💻 Currently working on real-world projects involving machine learning, data pipelines, and cloud technologies<br>
-- 🚀 Exploring tools like FastAPI, Google Cloud Platform, Prefect, and MLflow<br>
-- 📚 Always learning ...<br>
+- 🔍 Passionate about Data Science, AI, and Data Analysis<br>
+- 💻 Working on real-world projects with ML, pipelines, and cloud tech<br>
+- 🚀 Tools: FastAPI, Google Cloud, Prefect, MLflow & more<br>
+- 📚 Lifelong learner 📈<br>
 </p>
 
-### 
+---
 
-<h3 align="left">🛠 Language and tools</h3>
-###
-<h1 align="center">Programing languages </h1>
+### 🧩 Programming Languages
 <div align="left">
-  <i class="devicon-python-plain colored" style="font-size: 40px;"></i>
-  <i class="devicon-dart-plain colored" style="font-size: 40px;"></i>
-  <i class="devicon-flutter-plain colored" style="font-size: 40px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" />
 </div>
 
-###
+---
 
-
-<h1 align="center">Data Tools </h1>
+### 📊 Data Tools
 <div align="left">
-  <img src="https://seeklogo.com/images/P/prefect-logo-438352C2B3-seeklogo.com.png" height="40" alt="Prefect logo" />
-  <img src="https://brandfetch.com/mlflow.org/logo" height="40" alt="MLflow logo" />
-  <i class="devicon-mysql-plain-wordmark colored" style="font-size: 40px;"></i>
-  <img src="https://seeklogo.com/images/S/streamlit-logo-441815C3D2-seeklogo.com.png" height="40" alt="Streamlit logo" />
+  <img src="https://seeklogo.com/images/P/prefect-logo-438352C2B3-seeklogo.com.png" height="35" alt="Prefect" />
+  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="35" alt="MLflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="MySQL" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="35" alt="Streamlit" />
 </div>
 
+---
 
-###
-
-<h1 align="center">Cloud Tools </h1>
-
+### ☁️ Cloud Tools
 <div align="left">
-  <i class="devicon-googlecloud-plain colored" style="font-size: 40px;"></i>
-  <img src="https://gcpicons.com/icons/cloud_storage/color/cloud_storage_color.svg" height="40" alt="Google Cloud Storage logo" />
-  <img src="https://gcpicons.com/icons/cloud_run/color/cloud_run_color.svg" height="40" alt="Google Cloud Run logo" />
-  <img src="https://gcpicons.com/icons/artifact_registry/color/artifact_registry_color.svg" height="40" alt="Google Artifact Registry logo" />
-</div>
-###
-<h1 align="center">Dev Tools </h1>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
-  <img src="https://seeklogo.com/images/F/fastapi-logo-499530C7B3-seeklogo.com.png" height="40" alt="FastAPI logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="Google Cloud" />
+  <img src="https://gcpicons.com/icons/cloud_storage/color/cloud_storage_color.svg" height="35" alt="GCS" />
+  <img src="https://gcpicons.com/icons/cloud_run/color/cloud_run_color.svg" height="35" alt="Cloud Run" />
+  <img src="https://gcpicons.com/icons/artifact_registry/color/artifact_registry_color.svg" height="35" alt="Artifact Registry" />
 </div>
 
+---
 
-###
+### 🛠 Dev Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="35" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" alt="Postman" />
+  <img src="https://seeklogo.com/images/F/fastapi-logo-499530C7B3-seeklogo.com.png" height="35" alt="FastAPI" />
+</div>
 
+---
 
-
-
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+### 🔥 My Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-###
 
 
