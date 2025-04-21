@@ -81,3 +81,12 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
 </div>
 
 ###
+
+### 
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+###
