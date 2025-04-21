@@ -43,8 +43,7 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
 ### 
 
 <h3 align="left">🛠 Language and tools</h3>
-
-
+###
 <h1 align="center">Programing languages </h1>
 <div align="left">
   <i class="devicon-python-plain colored" style="font-size: 40px;"></i>
@@ -52,7 +51,7 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
   <i class="devicon-flutter-plain colored" style="font-size: 40px;"></i>
 </div>
 
-
+###
 
 
 <h1 align="center">Data Tools </h1>
@@ -64,7 +63,7 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
 </div>
 
 
-
+###
 
 <h1 align="center">Cloud Tools </h1>
 
@@ -74,8 +73,14 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
   <img src="https://gcpicons.com/icons/cloud_run/color/cloud_run_color.svg" height="40" alt="Google Cloud Run logo" />
   <img src="https://gcpicons.com/icons/artifact_registry/color/artifact_registry_color.svg" height="40" alt="Google Artifact Registry logo" />
 </div>
+###
+<h1 align="center">Dev Tools </h1>
 
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
+  <img src="https://seeklogo.com/images/F/fastapi-logo-499530C7B3-seeklogo.com.png" height="40" alt="FastAPI logo" />
+</div>
 
 
 ###
