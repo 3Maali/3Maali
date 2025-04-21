@@ -12,6 +12,17 @@
 </div>
 
 ###
+<div align="center">
+  <a href="https://www.linkedin.com/in/maali-alkhaldi-991967215/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:maali.alkhaldi1@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Badge"/>
+  </a>
+  <a href="https://twitter.com/maali_alkhaldi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <h1 align="center">hey there 👋</h1>
 
@@ -35,17 +46,13 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
 
 
 <h1 align="center">Programing languages </h1>
-<div align="center">
-  <a href="https://www.linkedin.com/in/maali-alkhaldi-991967215/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:maali.alkhaldi1@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Badge"/>
-  </a>
-  <a href="https://twitter.com/maali_alkhaldi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter Badge"/>
-  </a>
+<div align="left">
+  <i class="devicon-python-plain colored" style="font-size: 40px;"></i>
+  <i class="devicon-dart-plain colored" style="font-size: 40px;"></i>
+  <i class="devicon-flutter-plain colored" style="font-size: 40px;"></i>
 </div>
+
+
 
 
 <h1 align="center">Data Tools </h1>
