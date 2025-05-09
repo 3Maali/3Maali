@@ -71,11 +71,7 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
 </div>
 
 
-### 🔥 My Stats
-<!-- GitHub Stats Card -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3Maali&show_icons=true&theme=dark" height="200"/>
-</div>
+
 
 <!-- Top Languages Card -->
 <div align="center">
