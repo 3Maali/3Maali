@@ -56,8 +56,6 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
 ### ☁️ Cloud Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="Google Cloud" />
-  <img src="https://gcpicons.com/icons/cloud_storage/color/cloud_storage_color.svg" height="35" alt="GCS" />
-  <img src="https://gcpicons.com/icons/cloud_run/color/cloud_run_color.svg" height="35" alt="Cloud Run" />
   <img src="https://gcpicons.com/icons/artifact_registry/color/artifact_registry_color.svg" height="35" alt="Artifact Registry" />
 </div>
 
@@ -70,13 +68,6 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
   <img src="https://seeklogo.com/images/F/fastapi-logo-499530C7B3-seeklogo.com.png" height="35" alt="FastAPI" />
 </div>
 
-
-
-
-<!-- Top Languages Card -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Maali&layout=compact&theme=dark" height="200"/>
-</div>
 
 
 
