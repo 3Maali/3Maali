@@ -4,9 +4,7 @@
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3piamN3dHh4amJiamluZWFvdmIwamNraXV6ZGd6cjUyOG96eTluayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=3Maali.3Maali&" />
-</div>
+
 
 <div align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/maali-alkhaldi-991967215/" target="_blank">
