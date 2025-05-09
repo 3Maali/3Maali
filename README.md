@@ -18,8 +18,9 @@
   </a>
 </div>
 
----
 
+---
+<br>
 <h1 align="center">Hey there 👋</h1>
 
 ### 👩‍💻 About Me
@@ -32,7 +33,8 @@ I'm Maali from Saudi Arabia 🇸🇦<br><br>
 - 📚 Lifelong learner 📈<br>
 </p>
 
----
+
+
 
 ### 🧩 Programming Languages
 <div align="left">
