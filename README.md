@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="150" src="[https://postimg.cc/bGnpm5gg](https://postimg.cc/TK9fMcYp)" />
+  <img height="150" src="https://i.postimg.cc/hGFjmCkb/pixel-art-programmer-animation.gif" />
 </div>
 
 
